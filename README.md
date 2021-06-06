@@ -1,1 +1,1 @@
-# Educational-institute-ayout-sample
+# Educational-institute-Layout-sample
